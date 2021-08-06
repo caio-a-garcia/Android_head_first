@@ -1,2 +1,2 @@
-# Android_head_first
+# Android - Head First
 Exercises from the book "Head First Android"
